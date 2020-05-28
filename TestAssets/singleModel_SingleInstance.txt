@@ -1,0 +1,13 @@
+Model_Name: branch.obj
+
+Begin_Matrix
+
+-4.37114e-08 , 0 , -1.52 , 0
+0 , 1 , 0 , 0
+1 , 0 , -4.37114e-08 , 0
+0 , 0 , 0 , 1
+
+End_Matrix
+
+END_MODEL
+
